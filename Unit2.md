@@ -6,24 +6,24 @@ _`Sample 1`_
 >Edward
 
 _`Sample 2`_
->Dear Prof. Brown,
->    Thinking of you at Chrismas with warm wishes for your holiday season.
-from Frank with gratitude
+>Dear Prof. Brown,  
+>    Thinking of you at Chrismas with warm wishes for your holiday season.  
+>from Frank with gratitude
 
 _`Sample 3`_
->To dearest Mom,
->    You are the special woman who means the most to me. Happy Mother's Day!
-Susan
+>To dearest Mom,  
+>    You are the special woman who means the most to me. Happy Mother's Day!  
+>Susan
 
 _`Sample 4`_
->Dear Miss Baker,
->    National Day is a time for gladness and happiness. Thank you fo not assigning homework this holiday season!
-from Lucy
+>Dear Miss Baker,  
+>    National Day is a time for gladness and happiness. Thank you fo not assigning homework this holiday season!  
+>from Lucy
 
 _`Sample 5`_
->Dear Ming and Hua,
->    We have been in London for a month. We hope that the Moon Festival will bring you a full measure of happiness and success.
-from Lisa with love
+>Dear Ming and Hua,  
+>    We have been in London for a month. We hope that the Moon Festival will bring you a full measure of happiness and success.  
+>from Lisa with love
 
 ### Tips for writing greeting cards
 >1. 收卡人的姓名一般写在卡片左上方，且顶格写

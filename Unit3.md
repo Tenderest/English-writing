@@ -1,15 +1,31 @@
 # Gift Notes （礼品卡留言）
 
-
 _`Sample 1`_
+>To Dr. Brown,  
+>   Best wishes for a speedy recovery.  
+>                                from Li Hua
 
 _`Sample 2`_
+>To Laura,  
+>   With love and a bottle of perfume, I wish you.  
+>   Many Happy Returns of the Day!  
+>                                       from Jerry
 
 _`Sample 3`_
+>To Mike,  
+>   Hearty congratulations on your success!  
+>   Let this pair of shoes carry you to a brighter future!  
+>                                       from Mama and Papa
 
 _`Sample 4`_
+>To Andrew,  
+>   With a box of chocolate, I wish you all the best in the business.
+>                                               from Alice
 
 _`Sample 5`_
+>To Bruce,  
+>   With a watch, wishing your birthday be a wonderful one!  
+>                                     from your sister Ann
 
 
 ### Tips for writing greeting cards
