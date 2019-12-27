@@ -1,4 +1,3 @@
-/////////////////////////
 # Notices and Posters（通知与海报）
 
 _`Sample 1`_
