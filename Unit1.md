@@ -32,7 +32,8 @@ Telephone Number: 025-886***     | Address: 28 Guanhua Rood Nan Jing 210000
 Education: East China University | Major: English
 Reasons for Application:   
 > **I was admitted into the Department of Foreign Languages of East China University in 2011.  
-> I majored in English, and I did well both in my major** and in several international trade courses which I took as my major(minor) subjects.  
+> I majored in English, and I did well both in my major** and in several international trade courses which I took as my major subjects.  
 > **I would appreciate it very much if you could give me an opportunity to work in your company.** _// 如果你能给我进入公司的机会我会非常感激_  
 **I am confident that I could do a good job and do credit to [1] your company.**  
-[1]:do credit to 为...争光;为...带来光荣
+
+[1]:为...争光;为...带来光荣
